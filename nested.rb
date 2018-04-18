@@ -81,7 +81,7 @@ addition = {:yukihiro_matsumoto => {
           :languages => ["C"]
         }
      }
-addition.mergeprogrammer_hash
+addition.merge(programmer_hash)
     
 end
 
